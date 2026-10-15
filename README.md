@@ -2,7 +2,7 @@
 
 TruthCart is an AI-inspired shopping assistant prototype designed to help users make smarter purchasing decisions through product comparisons, claim verification, price insights, and review analysis.
 
-✨ Features
+# ✨ Features
 
 - 🔍 Product Exploration – Browse products and view their details.
 - ⚖️ Product Comparison – Compare specifications and features.
@@ -15,13 +15,13 @@ TruthCart is an AI-inspired shopping assistant prototype designed to help users 
 - 🌙 Dark Mode – Switch between light and dark themes.
 - 🎨 Modern UI – Enjoy interactive effects and a clean, responsive design.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 1. Clone or download this repository.
 2. Open the project folder.
@@ -29,7 +29,7 @@ TruthCart is an AI-inspired shopping assistant prototype designed to help users 
 
 No build tools or additional dependencies are required for the standalone prototype.
 
-🌐 GitHub Pages Deployment
+# 🌐 GitHub Pages Deployment
 
 1. Upload the project files to your GitHub repository.
 2. Rename "TruthCart_All_In_One.html" to "index.html".
@@ -37,24 +37,24 @@ No build tools or additional dependencies are required for the standalone protot
 4. Select Deploy from a branch, choose "main" and "/(root)", then save.
 5. Open the published URL after deployment completes.
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 TruthCart is currently a prototype. Product prices, ratings, specifications, and claim-verification results may use illustrative sample data. The project does not currently provide live retailer data, independent real-time verification, real authentication, or a connected AI API.
 
-🎯 Project Goal
+# 🎯 Project Goal
 
 To make online shopping more transparent and convenient by helping users compare products and evaluate product claims before making purchasing decisions.
 
-📄 License
+# 📄 License
 
 No license has been specified yet. Add a license if you intend to allow others to reuse or modify this project.
 
 ---
 
-TruthCart — Shop smarter. Compare better. Choose with confidence.
+# TruthCart — Shop smarter. Compare better. Choose with confidence.
 
 ---
 
-🌐 Live Demo
+# 🌐 Live Demo
 🚀 Try TruthCart here: View Live Demo
 Explore the TruthCart shopping assistant and experience its product comparison, claim verification, and shopping features.
