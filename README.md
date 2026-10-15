@@ -1,4 +1,4 @@
-🛒 TruthCart – Smart Shopping Assistant
+# 🛒 TruthCart – Smart Shopping Assistant
 
 TruthCart is an AI-inspired shopping assistant prototype designed to help users make smarter purchasing decisions through product comparisons, claim verification, price insights, and review analysis.
 
